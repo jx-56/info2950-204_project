@@ -77,5 +77,6 @@ to `data/raw/` so repeated analysis doesn't re-hit the API.
 
 | Date | Who | What |
 |---|---|---|
-| _[date]_ | Richard | Repo setup, README, folder structure |
-| _[date]_ | _[name]_ | Mentors added as collaborators |
+| 09/20/2026 | Richard | Repo setup, README creation |
+| 09/20/2026 | Richard | Mentors added as collaborators |
+| 09/20/2026 | Name | Placeholder |
